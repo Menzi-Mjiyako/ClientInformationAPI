@@ -1,0 +1,83 @@
+# .NET
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+*.bak
+*.log
+
+# ASP.NET Core
+wwwroot/
+*.swp
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NPM
+node_modules/
+package-lock.json
+yarn.lock
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget
+.nuget/
+
+# Azure Pipelines
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# ASP.NET Core
+*.dll
+*.exe
+*.pdb
+*.cache
+*.lock.json
+
+# ASP.NET Core User Secrets
+secrets.json
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Local IDE and build tools
+*.code-workspace
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage results
+coverage/
+*.lcov
+
+# IDE-specific files
+.idea/
+*.sublime-workspace
+*.sublime-project
